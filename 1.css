@@ -13,3 +13,43 @@ a:hover {
 a {
 	text-decoration: none;
 }
+.thongtin{
+	margin-left: 600px;
+}
+ul.menungang{
+    
+    list-style: none;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+
+}   
+ul.menungang li{
+    display: inline;
+}
+.menutren{
+    background-color: #1f1cd4;
+    height: 30px;
+    position:relative;
+    width: 100%;
+}      
+ul.menungang li a{
+    text-decoration: none;
+    font-family: segoe UI;
+    color: blanchedalmond;
+    display: inline-block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-size: 13px;
+    transition: 0.10s;
+    
+}   
+.menungang a:hover{
+    background-color: black;
+    color: chartreuse;
+}
